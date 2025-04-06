@@ -62,6 +62,8 @@ Start the Streamlit app:
 streamlit run app.py
 ```
 
+---
+
 ## 📁 JSON Config Format
 
 To control how your content is rewritten, upload a JSON file like this:
@@ -76,6 +78,8 @@ To control how your content is rewritten, upload a JSON file like this:
 }
 ```
 
+---
+
 ## 🧪 How It Works
 
 1. **Upload your config file** – Define tone, formatting, and other style rules.
@@ -86,6 +90,8 @@ To control how your content is rewritten, upload a JSON file like this:
    - Finance
    - Omni
 4. **Submit** – The app rewrites your content and displays both original and transformed versions side by side.
+
+---
 
 ## ✨ Powered By
 
