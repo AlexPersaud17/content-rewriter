@@ -43,12 +43,14 @@ def generate_sample_data_user_message(domain):
         - Avoid any real-world brands or products.
 
         The sample data you create should feel like a high-level creative brief or marketing pitch, showcasing creative ideas that inspire innovation and resonate with a target audience.
+        It's okay if the message uses overly promotional, vague, or potentially non-compliant language — it's intended to test how a content rewriter improves it.
         """
     else:
         user_message_sample = f"""
         Generate one realistic but fictional input text that a user might paste into a content rewriting tool.
         The input should be 1-2 paragraphs long, written in a natural, professional tone, and appropriate for a general audience.
         Do not ask for additional details or clarification. The content should be self-contained and complete without any further context required.
+        It's okay if the message uses overly promotional, vague, or potentially non-compliant language — it's intended to test how a content rewriter improves it.
         """
     return user_message_sample
 
