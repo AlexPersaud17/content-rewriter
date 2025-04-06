@@ -1,0 +1,8 @@
+{
+    "tone": "clear, accurate, professional",
+    "banned_words": ["complicated", "overwhelming", "inaccurate"],
+    "required_terms": ["evidence-based", "patient-centered", "clinical data"],
+    "max_sentence_length": 200,
+    "formatting": "headings, subheadings, bullet_points",
+    "audience": "healthcare professionals"
+}

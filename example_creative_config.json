@@ -1,0 +1,8 @@
+{
+    "tone": "bold, imaginative, engaging",
+    "banned_words": ["boring", "generic", "uninspired"],
+    "required_terms": ["innovative", "creative", "dynamic"],
+    "max_sentence_length": 200,
+    "formatting": "bullet_points",
+    "audience": "creative professionals"
+}

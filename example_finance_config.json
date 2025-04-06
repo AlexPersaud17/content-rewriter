@@ -1,0 +1,8 @@
+{
+    "tone": "formal, concise, analytical",
+    "banned_words": ["risky", "speculative", "unverified"],
+    "required_terms": ["market analysis", "investment strategies", "regulatory compliance"],
+    "max_sentence_length": 200,
+    "formatting": "headings, subheadings, numbered_lists",
+    "audience": "financial professionals"
+} 
