@@ -1,6 +1,7 @@
 # 📝 Content Rewriter
 
 A Streamlit-powered web app that rewrites input content based on configurable tone, style, and formatting settings—powered by Writer’s domain-specific **Palmyra** LLMs.
+Currently being hosted via Streamlit Community: https://palmyra-content-rewriter.streamlit.app/
 
 ## 🔍 Overview
 
